@@ -4,7 +4,6 @@ from datetime import datetime, date
 from borg_helper import BorgHelper, CustomLog
 
 if __name__ == "__main__":
-
     logger = None
 
     try:
